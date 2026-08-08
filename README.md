@@ -12,18 +12,18 @@ Two things made me create the Facebook Page, Instagram Account, blog, and YouTub
 
 1. My Portfolio Accounts
 
-- My GitHub: https://github.com/kunanonsurasorn
+    - My GitHub: https://github.com/kunanonsurasorn
 
-- SernestK GitHub: https://github.com/SernestK
+    - SernestK GitHub: https://github.com/SernestK
 
 2. SernestK Accounts
 
-- SernestK Facebook: https://www.facebook.com/profile.php?id=61592517434079&locale=th_TH
+    - SernestK Facebook: https://www.facebook.com/profile.php?id=61592517434079&locale=th_TH
 
-- SernestK Instagram: https://www.instagram.com/sernestk/
+    - SernestK Instagram: https://www.instagram.com/sernestk/
 
-- SernestK YouTube: https://www.youtube.com/@SernestK
+    - SernestK YouTube: https://www.youtube.com/@SernestK
 
 3. My Blog
 
-- Blogpost: https://sernestk.blogspot.com/
+    - Blogpost: https://sernestk.blogspot.com/
