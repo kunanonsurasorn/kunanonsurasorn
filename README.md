@@ -30,4 +30,4 @@ Two things made me create the Facebook Page, Instagram Account, blog, and YouTub
 
 4. My LinkedIn
 
-    - www.linkedin.com/in/khaemkunanonsurasorn
+    - My LinkedIn: www.linkedin.com/in/khaemkunanonsurasorn
