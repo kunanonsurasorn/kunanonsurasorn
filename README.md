@@ -8,7 +8,7 @@ My first computer programming language is Python because it is the first subject
 
 After I graduated, I enrolled in SQL, Python, HTML, CSS, and JavaScript through online courses to increase my programming skills and explore the world of programming. I created 3 projects in Python, HTML, CSS, and JavaScript. They required me to present the projects with videos and create a file along with a description on GitHub to get the certificates.
 
-I acknowledge that Personal Presentation and other soft skills are also important because even though I can use Python to create a Graphical User Interface. If anybody doesn’t know about my skills. My skills were thought of as a playground; even I want to use programming skills to use in my career.
+I acknowledge that Personal Presentation and other soft skills are also important because even though I can use Python to create a Graphical User Interface. If anybody doesn’t know about my skills. My skills were thought of as a playground; even I want to use programming skills to use in the programming career.
 
 Personal Presentation and other soft skills made me create a Facebook Page, Instagram Account, blog, and YouTube channel to perform my project and memo in the name “SernestK” to improve my skills in Presentation, storytelling, and speaking in the English Language.
 
