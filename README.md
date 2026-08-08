@@ -27,3 +27,7 @@ Two things made me create the Facebook Page, Instagram Account, blog, and YouTub
 3. My Blog
 
     - Blogpost: https://sernestk.blogspot.com/
+
+4. My LinkedIn
+
+    - www.linkedin.com/in/khaemkunanonsurasorn
