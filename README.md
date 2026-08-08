@@ -24,10 +24,10 @@ Two things made me create the Facebook Page, Instagram Account, blog, and YouTub
 
     - SernestK YouTube: https://www.youtube.com/@SernestK
 
-3. My Blog
+3. My Blog Account
 
     - Blogpost: https://sernestk.blogspot.com/
 
-4. My LinkedIn
+4. My LinkedIn Account
 
     - My LinkedIn: www.linkedin.com/in/khaemkunanonsurasorn
