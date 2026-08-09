@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My name is Kunanon Surasorn. You can call me "Khem". My LinkedIn account was created to present my journey in Programming, Soft Skills, and Learning. I am interested in programming because it aligns with my lifestyle, even though I graduated in Industrial Engineering.
+My name is Kunanon Surasorn. You can call me "Khem". My GitHub account was created to present my journey in Programming, Soft Skills, and Learning. I am interested in programming because it aligns with my lifestyle, even though I graduated in Industrial Engineering.
 
 My first computer programming language is Python because it is the first subject that first-year engineering students must study and use in industrial engineering problem-solving about Mathematics Problem and Statistics. I use Python in 3 subjects, and it has made me experienced in Data Analytics and Machine Learning to create projects. I found that I am happy to learn programming and develop the python project in many hours.
 
