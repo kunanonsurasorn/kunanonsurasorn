@@ -10,7 +10,7 @@ After I graduated, I enrolled in SQL, Python, HTML, CSS, and JavaScript through 
 
 I acknowledge that Personal Presentation and other soft skills are also important because even though I can use Python to create a Graphical User Interface. If anybody doesn’t know about my skills. My skills were thought of as a playground; even I want to use programming skills to use in the programming career.
 
-Personal Presentation and other soft skills made me create a Facebook Page, Instagram Account, blog, and YouTube channel to present my projects and share my knowledge under the name “SernestK” to improve my soft skills, mindset, presentation, storytelling, and English-speaking skills.
+Personal Presentation and other soft skills made me create a Facebook Page to present my projects and share my knowledge under the name “SernestK” to improve my soft skills, mindset, presentation, storytelling, and English-speaking skills.
 
 ## Websites
 
@@ -18,20 +18,10 @@ Personal Presentation and other soft skills made me create a Facebook Page, Inst
 
    - My GitHub: https://github.com/kunanonsurasorn
 
-   - SernestK GitHub: https://github.com/SernestK
-
 2. SernestK Accounts
 
    - SernestK Facebook: https://www.facebook.com/profile.php?id=61592517434079&locale=th_TH
 
-   - SernestK Instagram: https://www.instagram.com/sernestk/
-
-   - SernestK YouTube: https://www.youtube.com/@SernestK
-
-3. My Blog Account
-
-   - Blogpost: https://sernestk.blogspot.com/
-
-4. My LinkedIn Account
+3. My LinkedIn Account
 
    - My LinkedIn: www.linkedin.com/in/khaemkunanonsurasorn
