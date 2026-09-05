@@ -10,7 +10,7 @@ After I graduated, I enrolled in SQL, Python, HTML, CSS, and JavaScript through 
 
 I acknowledge that Personal Presentation and other soft skills are also important because even though I can use Python to create a Graphical User Interface. If anybody doesn’t know about my skills. My skills were thought of as a playground; even I want to use programming skills to use in the programming career.
 
-Personal Presentation and other soft skills made me create a Facebook Page to present my projects and share my knowledge under the name “SernestK” to improve my soft skills, mindset, presentation, storytelling, and English-speaking skills.
+Personal Presentation and other soft skills made me present my projects and share my knowledge to improve my soft skills, mindset, presentation, storytelling, and English-speaking skills.
 
 ## Websites
 
