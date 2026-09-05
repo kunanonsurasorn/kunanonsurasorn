@@ -18,10 +18,6 @@ Personal Presentation and other soft skills made me present my projects and shar
 
    - My GitHub: https://github.com/kunanonsurasorn
 
-2. SernestK Accounts
-
-   - SernestK Facebook: https://www.facebook.com/profile.php?id=61592517434079&locale=th_TH
-
-3. My LinkedIn Account
+2. My LinkedIn Account
 
    - My LinkedIn: www.linkedin.com/in/khaemkunanonsurasorn
