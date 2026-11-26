@@ -27,10 +27,12 @@ img {
 }
 a {
     font-size: 20px;
+    overflow-wrap: anywhere;
 }
 iframe {
     display: block; 
     margin: auto;
+    width: 50%;
 }
 img {
     display: block;
