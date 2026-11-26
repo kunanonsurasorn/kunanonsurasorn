@@ -4,6 +4,7 @@ body {
     padding-right: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
+    overflow-wrap: anywhere;
 }
 h1 {
     font-size:40px;
@@ -27,7 +28,6 @@ img {
 }
 a {
     font-size: 20px;
-    overflow-wrap: anywhere;
 }
 iframe {
     display: block; 
